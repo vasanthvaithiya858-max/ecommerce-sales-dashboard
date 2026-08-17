@@ -1,9 +1,6 @@
 # E-Commerce Sales Dashboard — Power BI
 
 An interactive Power BI dashboard analyzing 5,000 e-commerce orders across product categories, regions, and payment methods — built end-to-end in Power BI Desktop with custom DAX measures and calculated columns.
-
-![Dashboard preview](https://1drv.ms/u/c/9c49aa112f029279/IQAOr2rDv2YfTY9H9QxBPhwrAQf-XG5sknD6EPBfqm9nh9M)
-## 📊 Live Demo
 ▶️ [View the interactive dashboard](https://1drv.ms/v/c/9c49aa112f029279/IQCbieR8Y-9aSoW9OSRAXGwAAT3EtP36IrVy6UilwaUppSg?e=7y5RTs)
 
 ## 📁 Dataset
